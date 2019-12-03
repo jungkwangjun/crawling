@@ -1,5 +1,5 @@
 # 웹 크롤링 주제 : 항공권 가격 추적
-<img src = "aurora.jpg">
+<img src = "aurora.jpg" align="center">
 
 ### 배경
 
