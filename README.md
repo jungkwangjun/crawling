@@ -1,5 +1,5 @@
 # 웹 크롤링 주제 : 항공권 가격 추적
-<img src = "https://greatlandgraphics.com/wp-content/uploads/2019/02/NL21-aurora-reflection-c.johnson_.jpg", width=100px, height="auto">
+<img src = "aurora.jpg">
 ### 배경
 
 - 데이터사이언스 과정이 끝나면 아이슬란드에 오로라를 보러 가볼까
