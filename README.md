@@ -21,7 +21,7 @@
 - 항공편, 출발지, 도착지, 출발시각, 도착시각, 비행시간, 경유회수
 
 ### 자료수집 구조
-<center><img src = "/img/f.png"></center>
+<center><img src = "/img/f.PNG"></center>
 
 ### 결과
 <center><img src = "/img/robo3t.PNG"></center>
@@ -31,13 +31,12 @@
   - selenium 사용
 - kayak데이터 수집불가
   - url을 flight.naver.com으로 변경
-<center><img src = "/img/kayak_error.png"></center>
+<center><img src = "/img/kayak_error.PNG"></center>
 
 - 불규칙한 에러 발생 (어떨때는 되고 어떨땐 또 안되고)
   - driver.get(url) 이후 time.sleep(10) 사용
 - crontab 경로
   - run.sh 에 크롤링 폴더경로를 전부 써 줘야 함
-  - (예)
 <center><img src = "/img/runsh.jpg"></center>
 
 ### 더 해봐야 할 점
