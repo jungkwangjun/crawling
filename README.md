@@ -1,6 +1,6 @@
 # 웹 크롤링 주제 : 항공권 가격변동 추적
 ##### 항공권은 언제 최저가가 될까?
-<img src = "aurora.jpg" align="center">
+<center><img src = "aurora.jpg" width="150%" height="150%"></center>
 
 ### 배경
 
@@ -8,7 +8,8 @@
 - 출발일(예 2020년 2월 19일)이 같더라도 언제 예매하느냐에 따라 항공권 가격은 변함
 - 항공권 가격비교사이트의 요금 트렌트 분석은 오늘(예 2019년 12월 3일) 예매할 때를 기준이므로,
 - 시간변화에 따라 출발일의 '최적 항공권' 가격이 어떻게 변화하는지 추적한다.
-<img src = "trend.png">
+<center><img src = "trend.png"><center>
+출처 : https://brunch.co.kr/@handae/20
 
 ### 방법
 - 하루 한 번 가격과 예매처 정보를 불러들여서 Database에 저장
