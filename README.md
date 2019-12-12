@@ -15,6 +15,7 @@
 
 ### 필요한 데이터 
 <center><img src = "/img/naverflight.png"></center>
+
 - 가격
 - 크롤링 시각
 - 항공편, 출발지, 도착지, 출발시각, 도착시각, 비행시간, 경유회수
@@ -23,14 +24,15 @@
 <center><img src = "/img/f.png"></center>
 
 ### 결과
-<center><img src = "/img/robo3t.png"></center>
+<center><img src = "/img/robo3t.PNG"></center>
 
 ### 어려웠던 점
 - BeautifulSoup의 css selector 및 scrapy의 xpath로 수집불가
   - selenium 사용
 - kayak데이터 수집불가
-<center><img src = "/img/kayak_error.png"></center>
   - url을 flight.naver.com으로 변경
+<center><img src = "/img/kayak_error.png"></center>
+
 - 불규칙한 에러 발생 (어떨때는 되고 어떨땐 또 안되고)
   - driver.get(url) 이후 time.sleep(10) 사용
 - crontab 경로
