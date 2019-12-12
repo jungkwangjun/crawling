@@ -1,6 +1,6 @@
 # 웹 크롤링 주제 : 항공권 가격변동 추적
 ##### 항공권은 언제 최저가가 될까?
-<center><img src = "aurora.jpg" width="105%" height="105%"></center>
+<center><img src = "aurora.jpg"></center>
 
 ### 배경
 
