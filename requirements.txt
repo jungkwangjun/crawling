@@ -1,4 +1,4 @@
-scrapy==1.8.0
+scrapy==2.6.2
 selenium==3.141.0
 fake_useragent==0.1.11
 chromedriver==78.0.3904.105
